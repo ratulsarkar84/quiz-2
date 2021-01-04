@@ -1,0 +1,10 @@
+E:\Quiz 2\Quiz_2\Quiz_2\bin\Debug\Quiz_2.exe.config
+E:\Quiz 2\Quiz_2\Quiz_2\bin\Debug\Quiz_2.exe
+E:\Quiz 2\Quiz_2\Quiz_2\bin\Debug\Quiz_2.pdb
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.csprojAssemblyReference.cache
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.Form1.resources
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.Properties.Resources.resources
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.csproj.GenerateResource.cache
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.csproj.CoreCompileInputs.cache
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.exe
+E:\Quiz 2\Quiz_2\Quiz_2\obj\Debug\Quiz_2.pdb
